@@ -1,6 +1,6 @@
 # Overview
 
-This intent of this document is to serve as a basic guide for getting started with r10k and a fresh Puppet installation, including the following:
+The intent of this document is to serve as a basic guide for getting started with r10k and a fresh Puppet installation, including the following:
 
 * Installing Puppet and its dependencies
 * Installing r10k and its dependencies
